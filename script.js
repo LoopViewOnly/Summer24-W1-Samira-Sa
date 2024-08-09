@@ -32,6 +32,7 @@ function real_alert() {
 function fake_alert() {
   alert("incorrect!");
   streak = 0;
+  streak_element.innerText = "your streak is: " + streak;
   game();
 }
 game();
