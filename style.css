@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: rgb(196, 194, 194);
+  color: black;
+}
+img {
+  width: 450px;
+  height: 450px;
+  clip-path: inset(0 0 15px 0);
+}
